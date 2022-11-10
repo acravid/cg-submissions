@@ -9,9 +9,9 @@ At each lab, we were given a distinct challenge. The statements are at the LAB f
 
 ### Contributors
 
-```
-Allan Fernandes   - 97281
-Diogo Lopes       - 96732
-Francisco Ribeiro - 95578
+| Number | Name              | 
+|--------|-------------------|
+| 97281  | Allan Fernandes   |
+| 96732  | Diogo Lopes       |
+| 95578  | Francisco Ribeiro |
 
-```
